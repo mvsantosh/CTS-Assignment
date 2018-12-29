@@ -1,0 +1,346 @@
+2018-12-29 19:13:50 - Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.rabobank.CustomerStatementApplicationTests], using SpringBootContextLoader
+2018-12-29 19:13:50 - Could not detect default resource locations for test class [com.rabobank.CustomerStatementApplicationTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+2018-12-29 19:13:50 - Could not detect default configuration classes for test class [com.rabobank.CustomerStatementApplicationTests]: CustomerStatementApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2018-12-29 19:13:50 - Found @SpringBootConfiguration com.rabobank.CustomerStatementApplication for test class com.rabobank.CustomerStatementApplicationTests
+2018-12-29 19:13:50 - Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+2018-12-29 19:13:50 - Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@1976f5c, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@1fc268b, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@18dad04, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@1e495ff, org.springframework.test.context.support.DirtiesContextTestExecutionListener@1e1e210, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@1e35cd9, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@144252c, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@821a96, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@3d8174, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@1a9117e]
+2018-12-29 19:13:51 - Starting CustomerStatementApplicationTests on TimeMachine with PID 5256 (started by Santhosh in D:\workarea\STS_Workspace\customer-statement)
+2018-12-29 19:13:51 - No active profile set, falling back to default profiles: default
+2018-12-29 19:13:57 - Initializing ExecutorService 'applicationTaskExecutor'
+2018-12-29 19:13:58 - Adding welcome page template: index
+2018-12-29 19:13:58 - Started CustomerStatementApplicationTests in 7.278 seconds (JVM running for 10.462)
+2018-12-29 19:13:59 - Shutting down ExecutorService 'applicationTaskExecutor'
+2018-12-29 19:15:19 - Starting CustomerStatementApplication on TimeMachine with PID 1716 (D:\workarea\STS_Workspace\customer-statement\target\classes started by Santhosh in D:\workarea\STS_Workspace\customer-statement)
+2018-12-29 19:15:19 - No active profile set, falling back to default profiles: default
+2018-12-29 19:15:23 - Tomcat initialized with port(s): 8080 (http)
+2018-12-29 19:15:23 - Initializing ProtocolHandler ["http-nio-8080"]
+2018-12-29 19:15:23 - Starting service [Tomcat]
+2018-12-29 19:15:23 - Starting Servlet Engine: Apache Tomcat/9.0.13
+2018-12-29 19:15:23 - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_144\jre\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jre1.8.0_144/bin/client;C:/Program Files/Java/jre1.8.0_144/bin;C:/Program Files/Java/jre1.8.0_144/lib/i386;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_144\bin;C:\apache-maven-3.5.0\bin;C:\nodejs;C:\Users\Santhosh\AppData\Local\Programs\Microsoft VS Code\bin;D:\Softwares\STS\sts-3.9.3.RELEASE;;.]
+2018-12-29 19:15:24 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2018-12-29 19:15:24 - Initializing Spring embedded WebApplicationContext
+2018-12-29 19:15:24 - Root WebApplicationContext: initialization completed in 4577 ms
+2018-12-29 19:15:25 - Initializing ExecutorService 'applicationTaskExecutor'
+2018-12-29 19:15:25 - Adding welcome page template: index
+2018-12-29 19:15:25 - Starting ProtocolHandler ["http-nio-8080"]
+2018-12-29 19:15:25 - Using a shared selector for servlet write/read
+2018-12-29 19:15:25 - Tomcat started on port(s): 8080 (http) with context path ''
+2018-12-29 19:15:25 - Started CustomerStatementApplication in 7.3 seconds (JVM running for 8.961)
+2018-12-29 19:15:49 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2018-12-29 19:15:49 - Initializing Servlet 'dispatcherServlet'
+2018-12-29 19:15:49 - Completed initialization in 19 ms
+2018-12-29 19:15:50 - No mapping for GET /static/css/main.css
+2018-12-29 19:16:57 - No mapping for GET /static/css/main.css
+2018-12-29 19:21:27 - Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.rabobank.CustomerStatementApplicationTests], using SpringBootContextLoader
+2018-12-29 19:21:27 - Could not detect default resource locations for test class [com.rabobank.CustomerStatementApplicationTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+2018-12-29 19:21:27 - Could not detect default configuration classes for test class [com.rabobank.CustomerStatementApplicationTests]: CustomerStatementApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2018-12-29 19:21:28 - Found @SpringBootConfiguration com.rabobank.CustomerStatementApplication for test class com.rabobank.CustomerStatementApplicationTests
+2018-12-29 19:21:28 - Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+2018-12-29 19:21:28 - Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@1976f5c, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@1fc268b, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@18dad04, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@1e495ff, org.springframework.test.context.support.DirtiesContextTestExecutionListener@1e1e210, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@1e35cd9, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@144252c, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@821a96, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@3d8174, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@1a9117e]
+2018-12-29 19:21:29 - Starting CustomerStatementApplicationTests on TimeMachine with PID 5356 (started by Santhosh in D:\workarea\STS_Workspace\customer-statement)
+2018-12-29 19:21:29 - No active profile set, falling back to default profiles: default
+2018-12-29 19:21:34 - Initializing ExecutorService 'applicationTaskExecutor'
+2018-12-29 19:21:35 - Adding welcome page template: index
+2018-12-29 19:21:35 - Started CustomerStatementApplicationTests in 6.901 seconds (JVM running for 10.276)
+2018-12-29 19:21:36 - Shutting down ExecutorService 'applicationTaskExecutor'
+2018-12-29 19:22:34 - Starting CustomerStatementApplication on TimeMachine with PID 5968 (D:\workarea\STS_Workspace\customer-statement\target\classes started by Santhosh in D:\workarea\STS_Workspace\customer-statement)
+2018-12-29 19:22:34 - No active profile set, falling back to default profiles: default
+2018-12-29 19:22:38 - Tomcat initialized with port(s): 8080 (http)
+2018-12-29 19:22:38 - Initializing ProtocolHandler ["http-nio-8080"]
+2018-12-29 19:22:38 - Starting service [Tomcat]
+2018-12-29 19:22:38 - Starting Servlet Engine: Apache Tomcat/9.0.13
+2018-12-29 19:22:39 - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_144\jre\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jre1.8.0_144/bin/client;C:/Program Files/Java/jre1.8.0_144/bin;C:/Program Files/Java/jre1.8.0_144/lib/i386;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_144\bin;C:\apache-maven-3.5.0\bin;C:\nodejs;C:\Users\Santhosh\AppData\Local\Programs\Microsoft VS Code\bin;D:\Softwares\STS\sts-3.9.3.RELEASE;;.]
+2018-12-29 19:22:39 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2018-12-29 19:22:39 - Initializing Spring embedded WebApplicationContext
+2018-12-29 19:22:39 - Root WebApplicationContext: initialization completed in 4913 ms
+2018-12-29 19:22:40 - Initializing ExecutorService 'applicationTaskExecutor'
+2018-12-29 19:22:40 - Adding welcome page template: index
+2018-12-29 19:22:41 - Starting ProtocolHandler ["http-nio-8080"]
+2018-12-29 19:22:41 - Using a shared selector for servlet write/read
+2018-12-29 19:22:41 - Tomcat started on port(s): 8080 (http) with context path ''
+2018-12-29 19:22:41 - Started CustomerStatementApplication in 7.863 seconds (JVM running for 9.741)
+2018-12-29 19:24:34 - Starting CustomerStatementApplication on TimeMachine with PID 5356 (D:\workarea\STS_Workspace\customer-statement\target\classes started by Santhosh in D:\workarea\STS_Workspace\customer-statement)
+2018-12-29 19:24:34 - No active profile set, falling back to default profiles: default
+2018-12-29 19:24:38 - Tomcat initialized with port(s): 8080 (http)
+2018-12-29 19:24:38 - Initializing ProtocolHandler ["http-nio-8080"]
+2018-12-29 19:24:38 - Starting service [Tomcat]
+2018-12-29 19:24:38 - Starting Servlet Engine: Apache Tomcat/9.0.13
+2018-12-29 19:24:38 - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_144\jre\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jre1.8.0_144/bin/client;C:/Program Files/Java/jre1.8.0_144/bin;C:/Program Files/Java/jre1.8.0_144/lib/i386;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_144\bin;C:\apache-maven-3.5.0\bin;C:\nodejs;C:\Users\Santhosh\AppData\Local\Programs\Microsoft VS Code\bin;D:\Softwares\STS\sts-3.9.3.RELEASE;;.]
+2018-12-29 19:24:39 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2018-12-29 19:24:39 - Initializing Spring embedded WebApplicationContext
+2018-12-29 19:24:39 - Root WebApplicationContext: initialization completed in 4617 ms
+2018-12-29 19:24:40 - Initializing ExecutorService 'applicationTaskExecutor'
+2018-12-29 19:24:40 - Adding welcome page template: index
+2018-12-29 19:24:40 - Starting ProtocolHandler ["http-nio-8080"]
+2018-12-29 19:24:40 - Using a shared selector for servlet write/read
+2018-12-29 19:24:40 - Tomcat started on port(s): 8080 (http) with context path ''
+2018-12-29 19:24:40 - Started CustomerStatementApplication in 7.278 seconds (JVM running for 8.871)
+2018-12-29 19:24:48 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2018-12-29 19:24:48 - Initializing Servlet 'dispatcherServlet'
+2018-12-29 19:24:48 - Completed initialization in 18 ms
+2018-12-29 19:24:50 - No mapping for GET /static/css/main.css
+2018-12-29 19:25:07 - Total records size 10
+2018-12-29 19:25:07 - Invalid records size 3
+2018-12-29 19:27:10 - Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.rabobank.CustomerStatementApplicationTests], using SpringBootContextLoader
+2018-12-29 19:27:10 - Could not detect default resource locations for test class [com.rabobank.CustomerStatementApplicationTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+2018-12-29 19:27:10 - Could not detect default configuration classes for test class [com.rabobank.CustomerStatementApplicationTests]: CustomerStatementApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2018-12-29 19:27:10 - Found @SpringBootConfiguration com.rabobank.CustomerStatementApplication for test class com.rabobank.CustomerStatementApplicationTests
+2018-12-29 19:27:11 - Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+2018-12-29 19:27:11 - Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@1976f5c, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@1fc268b, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@18dad04, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@1e495ff, org.springframework.test.context.support.DirtiesContextTestExecutionListener@1e1e210, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@1e35cd9, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@144252c, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@821a96, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@3d8174, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@1a9117e]
+2018-12-29 19:27:12 - Starting CustomerStatementApplicationTests on TimeMachine with PID 3132 (started by Santhosh in D:\workarea\STS_Workspace\customer-statement)
+2018-12-29 19:27:12 - No active profile set, falling back to default profiles: default
+2018-12-29 19:27:16 - Initializing ExecutorService 'applicationTaskExecutor'
+2018-12-29 19:27:17 - Adding welcome page template: index
+2018-12-29 19:27:17 - Started CustomerStatementApplicationTests in 6.404 seconds (JVM running for 9.617)
+2018-12-29 19:27:18 - Shutting down ExecutorService 'applicationTaskExecutor'
+2018-12-29 19:28:06 - Starting CustomerStatementApplication on TimeMachine with PID 3728 (D:\workarea\STS_Workspace\customer-statement\target\classes started by Santhosh in D:\workarea\STS_Workspace\customer-statement)
+2018-12-29 19:28:06 - No active profile set, falling back to default profiles: default
+2018-12-29 19:28:10 - Tomcat initialized with port(s): 8080 (http)
+2018-12-29 19:28:10 - Initializing ProtocolHandler ["http-nio-8080"]
+2018-12-29 19:28:10 - Starting service [Tomcat]
+2018-12-29 19:28:10 - Starting Servlet Engine: Apache Tomcat/9.0.13
+2018-12-29 19:28:10 - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_144\jre\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jre1.8.0_144/bin/client;C:/Program Files/Java/jre1.8.0_144/bin;C:/Program Files/Java/jre1.8.0_144/lib/i386;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_144\bin;C:\apache-maven-3.5.0\bin;C:\nodejs;C:\Users\Santhosh\AppData\Local\Programs\Microsoft VS Code\bin;D:\Softwares\STS\sts-3.9.3.RELEASE;;.]
+2018-12-29 19:28:11 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2018-12-29 19:28:11 - Initializing Spring embedded WebApplicationContext
+2018-12-29 19:28:11 - Root WebApplicationContext: initialization completed in 4515 ms
+2018-12-29 19:28:11 - Initializing ExecutorService 'applicationTaskExecutor'
+2018-12-29 19:28:12 - Adding welcome page template: index
+2018-12-29 19:28:12 - Starting ProtocolHandler ["http-nio-8080"]
+2018-12-29 19:28:12 - Using a shared selector for servlet write/read
+2018-12-29 19:28:12 - Tomcat started on port(s): 8080 (http) with context path ''
+2018-12-29 19:28:12 - Started CustomerStatementApplication in 7.157 seconds (JVM running for 8.961)
+2018-12-29 19:28:21 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2018-12-29 19:28:21 - Initializing Servlet 'dispatcherServlet'
+2018-12-29 19:28:21 - Completed initialization in 25 ms
+2018-12-29 19:28:23 - No mapping for GET /static/css/main.css
+2018-12-29 19:28:56 - Total records size 10
+2018-12-29 19:28:56 - Invalid records size 3
+2018-12-29 19:31:12 - No mapping for GET /static/css/main.css
+2018-12-29 19:31:20 - Total records size 10
+2018-12-29 19:31:20 - Invalid records size 2
+2018-12-29 19:31:57 - No mapping for GET /static/css/main.css
+2018-12-29 19:39:46 - No mapping for GET /static/css/main.css
+2018-12-29 19:39:56 - Total records size 10
+2018-12-29 19:39:56 - Invalid records size 3
+2018-12-29 19:41:24 - No mapping for GET /static/css/main.css
+2018-12-29 19:41:32 - Total records size 10
+2018-12-29 19:41:32 - Invalid records size 4
+2018-12-29 19:41:41 - No mapping for GET /static/css/main.css
+2018-12-29 19:42:16 - No mapping for GET /static/css/main.css
+2018-12-29 19:42:24 - Total records size 10
+2018-12-29 19:42:24 - Invalid records size 3
+2018-12-29 19:42:28 - No mapping for GET /static/css/main.css
+2018-12-29 19:43:54 - Starting CustomerStatementApplication on TimeMachine with PID 5564 (D:\workarea\STS_Workspace\customer-statement\target\classes started by Santhosh in D:\workarea\STS_Workspace\customer-statement)
+2018-12-29 19:43:54 - No active profile set, falling back to default profiles: default
+2018-12-29 19:43:58 - Tomcat initialized with port(s): 8080 (http)
+2018-12-29 19:43:58 - Initializing ProtocolHandler ["http-nio-8080"]
+2018-12-29 19:43:58 - Starting service [Tomcat]
+2018-12-29 19:43:58 - Starting Servlet Engine: Apache Tomcat/9.0.13
+2018-12-29 19:43:58 - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_144\jre\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jre1.8.0_144/bin/client;C:/Program Files/Java/jre1.8.0_144/bin;C:/Program Files/Java/jre1.8.0_144/lib/i386;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_144\bin;C:\apache-maven-3.5.0\bin;C:\nodejs;C:\Users\Santhosh\AppData\Local\Programs\Microsoft VS Code\bin;D:\Softwares\STS\sts-3.9.3.RELEASE;;.]
+2018-12-29 19:43:59 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2018-12-29 19:43:59 - Initializing Spring embedded WebApplicationContext
+2018-12-29 19:43:59 - Root WebApplicationContext: initialization completed in 4975 ms
+2018-12-29 19:44:00 - Initializing ExecutorService 'applicationTaskExecutor'
+2018-12-29 19:44:00 - Adding welcome page template: index
+2018-12-29 19:44:01 - Starting ProtocolHandler ["http-nio-8080"]
+2018-12-29 19:44:01 - Using a shared selector for servlet write/read
+2018-12-29 19:44:01 - Tomcat started on port(s): 8080 (http) with context path ''
+2018-12-29 19:44:01 - Started CustomerStatementApplication in 8.176 seconds (JVM running for 9.87)
+2018-12-29 19:44:03 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2018-12-29 19:44:03 - Initializing Servlet 'dispatcherServlet'
+2018-12-29 19:44:03 - Completed initialization in 19 ms
+2018-12-29 19:44:05 - No mapping for GET /static/css/main.css
+2018-12-29 20:23:55 - Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.rabobank.CustomerStatementApplicationTests], using SpringBootContextLoader
+2018-12-29 20:23:55 - Could not detect default resource locations for test class [com.rabobank.CustomerStatementApplicationTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+2018-12-29 20:23:55 - Could not detect default configuration classes for test class [com.rabobank.CustomerStatementApplicationTests]: CustomerStatementApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2018-12-29 20:23:55 - Found @SpringBootConfiguration com.rabobank.CustomerStatementApplication for test class com.rabobank.CustomerStatementApplicationTests
+2018-12-29 20:23:56 - Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+2018-12-29 20:23:56 - Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@1976f5c, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@1fc268b, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@18dad04, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@1e495ff, org.springframework.test.context.support.DirtiesContextTestExecutionListener@1e1e210, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@1e35cd9, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@144252c, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@821a96, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@3d8174, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@1a9117e]
+2018-12-29 20:23:57 - Starting CustomerStatementApplicationTests on TimeMachine with PID 632 (started by Santhosh in D:\workarea\STS_Workspace\customer-statement)
+2018-12-29 20:23:57 - No active profile set, falling back to default profiles: default
+2018-12-29 20:24:01 - Initializing ExecutorService 'applicationTaskExecutor'
+2018-12-29 20:24:02 - Adding welcome page template: index
+2018-12-29 20:24:02 - Started CustomerStatementApplicationTests in 6.61 seconds (JVM running for 9.814)
+2018-12-29 20:24:03 - Shutting down ExecutorService 'applicationTaskExecutor'
+2018-12-29 20:49:31 - Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.rabobank.CustomerStatementApplicationTests], using SpringBootContextLoader
+2018-12-29 20:49:31 - Could not detect default resource locations for test class [com.rabobank.CustomerStatementApplicationTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+2018-12-29 20:49:31 - Could not detect default configuration classes for test class [com.rabobank.CustomerStatementApplicationTests]: CustomerStatementApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2018-12-29 20:49:31 - Found @SpringBootConfiguration com.rabobank.CustomerStatementApplication for test class com.rabobank.CustomerStatementApplicationTests
+2018-12-29 20:49:31 - Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+2018-12-29 20:49:31 - Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@1976f5c, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@1fc268b, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@18dad04, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@1e495ff, org.springframework.test.context.support.DirtiesContextTestExecutionListener@1e1e210, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@1e35cd9, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@144252c, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@821a96, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@3d8174, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@1a9117e]
+2018-12-29 20:49:32 - Starting CustomerStatementApplicationTests on TimeMachine with PID 1740 (started by Santhosh in D:\workarea\STS_Workspace\customer-statement)
+2018-12-29 20:49:32 - No active profile set, falling back to default profiles: default
+2018-12-29 20:49:37 - Initializing ExecutorService 'applicationTaskExecutor'
+2018-12-29 20:49:38 - Adding welcome page template: index
+2018-12-29 20:49:38 - Started CustomerStatementApplicationTests in 6.509 seconds (JVM running for 9.891)
+2018-12-29 20:49:39 - Shutting down ExecutorService 'applicationTaskExecutor'
+2018-12-29 20:53:37 - Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.rabobank.CustomerStatementApplicationTests], using SpringBootContextLoader
+2018-12-29 20:53:37 - Could not detect default resource locations for test class [com.rabobank.CustomerStatementApplicationTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+2018-12-29 20:53:37 - Could not detect default configuration classes for test class [com.rabobank.CustomerStatementApplicationTests]: CustomerStatementApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2018-12-29 20:55:26 - Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.rabobank.app.CustomerStatementApplicationTests], using SpringBootContextLoader
+2018-12-29 20:55:26 - Could not detect default resource locations for test class [com.rabobank.app.CustomerStatementApplicationTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+2018-12-29 20:55:26 - Could not detect default configuration classes for test class [com.rabobank.app.CustomerStatementApplicationTests]: CustomerStatementApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2018-12-29 20:55:26 - Found @SpringBootConfiguration com.rabobank.app.CustomerStatementApplication for test class com.rabobank.app.CustomerStatementApplicationTests
+2018-12-29 20:55:27 - Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+2018-12-29 20:55:27 - Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@1976f5c, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@1fc268b, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@18dad04, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@1e495ff, org.springframework.test.context.support.DirtiesContextTestExecutionListener@1e1e210, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@1e35cd9, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@144252c, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@821a96, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@3d8174, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@1a9117e]
+2018-12-29 20:55:28 - Starting CustomerStatementApplicationTests on TimeMachine with PID 5272 (started by Santhosh in D:\workarea\STS_Workspace\customer-statement)
+2018-12-29 20:55:28 - No active profile set, falling back to default profiles: default
+2018-12-29 20:55:33 - Initializing ExecutorService 'applicationTaskExecutor'
+2018-12-29 20:55:33 - Adding welcome page template: index
+2018-12-29 20:55:34 - Started CustomerStatementApplicationTests in 6.895 seconds (JVM running for 10.295)
+2018-12-29 20:55:35 - Shutting down ExecutorService 'applicationTaskExecutor'
+2018-12-29 20:56:12 - Starting CustomerStatementApplication on TimeMachine with PID 1976 (D:\workarea\STS_Workspace\customer-statement\target\classes started by Santhosh in D:\workarea\STS_Workspace\customer-statement)
+2018-12-29 20:56:12 - No active profile set, falling back to default profiles: default
+2018-12-29 20:56:16 - Tomcat initialized with port(s): 8080 (http)
+2018-12-29 20:56:16 - Initializing ProtocolHandler ["http-nio-8080"]
+2018-12-29 20:56:16 - Starting service [Tomcat]
+2018-12-29 20:56:16 - Starting Servlet Engine: Apache Tomcat/9.0.13
+2018-12-29 20:56:16 - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_144\jre\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jre1.8.0_144/bin/client;C:/Program Files/Java/jre1.8.0_144/bin;C:/Program Files/Java/jre1.8.0_144/lib/i386;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_144\bin;C:\apache-maven-3.5.0\bin;C:\nodejs;C:\Users\Santhosh\AppData\Local\Programs\Microsoft VS Code\bin;D:\Softwares\STS\sts-3.9.3.RELEASE;;.]
+2018-12-29 20:56:17 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2018-12-29 20:56:17 - Initializing Spring embedded WebApplicationContext
+2018-12-29 20:56:17 - Root WebApplicationContext: initialization completed in 4569 ms
+2018-12-29 20:56:18 - Initializing ExecutorService 'applicationTaskExecutor'
+2018-12-29 20:56:18 - Adding welcome page template: index
+2018-12-29 20:56:18 - Starting ProtocolHandler ["http-nio-8080"]
+2018-12-29 20:56:18 - Using a shared selector for servlet write/read
+2018-12-29 20:56:18 - Tomcat started on port(s): 8080 (http) with context path ''
+2018-12-29 20:56:18 - Started CustomerStatementApplication in 7.273 seconds (JVM running for 9.195)
+2018-12-29 20:56:23 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2018-12-29 20:56:23 - Initializing Servlet 'dispatcherServlet'
+2018-12-29 20:56:23 - Completed initialization in 17 ms
+2018-12-29 20:56:23 - No mapping for GET /index
+2018-12-29 21:02:16 - Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.rabobank.app.CustomerStatementApplicationTests], using SpringBootContextLoader
+2018-12-29 21:02:16 - Could not detect default resource locations for test class [com.rabobank.app.CustomerStatementApplicationTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+2018-12-29 21:02:16 - Could not detect default configuration classes for test class [com.rabobank.app.CustomerStatementApplicationTests]: CustomerStatementApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2018-12-29 21:02:17 - Found @SpringBootConfiguration com.rabobank.app.CustomerStatementApplication for test class com.rabobank.app.CustomerStatementApplicationTests
+2018-12-29 21:02:17 - Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+2018-12-29 21:02:17 - Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@1fc268b, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@18dad04, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@1e495ff, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@1e1e210, org.springframework.test.context.support.DirtiesContextTestExecutionListener@1e35cd9, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@144252c, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@821a96, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@3d8174, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@1a9117e, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@12c2a62]
+2018-12-29 21:02:18 - Starting CustomerStatementApplicationTests on TimeMachine with PID 5644 (started by Santhosh in D:\workarea\STS_Workspace\customer-statement)
+2018-12-29 21:02:18 - No active profile set, falling back to default profiles: default
+2018-12-29 21:02:23 - Initializing ExecutorService 'applicationTaskExecutor'
+2018-12-29 21:02:24 - Adding welcome page template: index
+2018-12-29 21:02:24 - Started CustomerStatementApplicationTests in 6.924 seconds (JVM running for 11.04)
+2018-12-29 21:02:25 - Shutting down ExecutorService 'applicationTaskExecutor'
+2018-12-29 21:05:27 - Starting CustomerStatementApplication on TimeMachine with PID 5656 (D:\workarea\STS_Workspace\customer-statement\target\classes started by Santhosh in D:\workarea\STS_Workspace\customer-statement)
+2018-12-29 21:05:27 - No active profile set, falling back to default profiles: default
+2018-12-29 21:05:31 - Tomcat initialized with port(s): 8080 (http)
+2018-12-29 21:05:31 - Initializing ProtocolHandler ["http-nio-8080"]
+2018-12-29 21:05:31 - Starting service [Tomcat]
+2018-12-29 21:05:31 - Starting Servlet Engine: Apache Tomcat/9.0.13
+2018-12-29 21:05:31 - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_144\jre\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jre1.8.0_144/bin/client;C:/Program Files/Java/jre1.8.0_144/bin;C:/Program Files/Java/jre1.8.0_144/lib/i386;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_144\bin;C:\apache-maven-3.5.0\bin;C:\nodejs;C:\Users\Santhosh\AppData\Local\Programs\Microsoft VS Code\bin;D:\Softwares\STS\sts-3.9.3.RELEASE;;.]
+2018-12-29 21:05:32 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2018-12-29 21:05:32 - Initializing Spring embedded WebApplicationContext
+2018-12-29 21:05:32 - Root WebApplicationContext: initialization completed in 4521 ms
+2018-12-29 21:05:33 - Initializing ExecutorService 'applicationTaskExecutor'
+2018-12-29 21:05:33 - Adding welcome page template: index
+2018-12-29 21:05:33 - Starting ProtocolHandler ["http-nio-8080"]
+2018-12-29 21:05:33 - Using a shared selector for servlet write/read
+2018-12-29 21:05:33 - Tomcat started on port(s): 8080 (http) with context path ''
+2018-12-29 21:05:33 - Started CustomerStatementApplication in 7.242 seconds (JVM running for 8.974)
+2018-12-29 21:05:49 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2018-12-29 21:05:49 - Initializing Servlet 'dispatcherServlet'
+2018-12-29 21:05:49 - Completed initialization in 19 ms
+2018-12-29 21:05:50 - No mapping for GET /index
+2018-12-29 21:05:54 - No mapping for GET /index1
+2018-12-29 21:06:11 - No mapping for GET /index
+2018-12-29 21:14:57 - Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.rabobank.app.CustomerStatementApplicationTests], using SpringBootContextLoader
+2018-12-29 21:14:57 - Could not detect default resource locations for test class [com.rabobank.app.CustomerStatementApplicationTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+2018-12-29 21:14:57 - Could not detect default configuration classes for test class [com.rabobank.app.CustomerStatementApplicationTests]: CustomerStatementApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2018-12-29 21:14:57 - Found @SpringBootConfiguration com.rabobank.app.CustomerStatementApplication for test class com.rabobank.app.CustomerStatementApplicationTests
+2018-12-29 21:14:58 - Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+2018-12-29 21:14:58 - Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@1976f5c, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@1fc268b, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@18dad04, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@1e495ff, org.springframework.test.context.support.DirtiesContextTestExecutionListener@1e1e210, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@1e35cd9, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@144252c, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@821a96, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@3d8174, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@1a9117e]
+2018-12-29 21:14:59 - Starting CustomerStatementApplicationTests on TimeMachine with PID 5792 (started by Santhosh in D:\workarea\STS_Workspace\customer-statement)
+2018-12-29 21:14:59 - No active profile set, falling back to default profiles: default
+2018-12-29 21:15:06 - Initializing ExecutorService 'applicationTaskExecutor'
+2018-12-29 21:15:06 - Adding welcome page template: index
+2018-12-29 21:15:07 - Started CustomerStatementApplicationTests in 8.693 seconds (JVM running for 11.937)
+2018-12-29 21:15:07 - Shutting down ExecutorService 'applicationTaskExecutor'
+2018-12-29 21:15:26 - Starting CustomerStatementApplication on TimeMachine with PID 1376 (D:\workarea\STS_Workspace\customer-statement\target\classes started by Santhosh in D:\workarea\STS_Workspace\customer-statement)
+2018-12-29 21:15:26 - No active profile set, falling back to default profiles: default
+2018-12-29 21:15:30 - Tomcat initialized with port(s): 8080 (http)
+2018-12-29 21:15:30 - Initializing ProtocolHandler ["http-nio-8080"]
+2018-12-29 21:15:30 - Starting service [Tomcat]
+2018-12-29 21:15:30 - Starting Servlet Engine: Apache Tomcat/9.0.13
+2018-12-29 21:15:30 - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_144\jre\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jre1.8.0_144/bin/client;C:/Program Files/Java/jre1.8.0_144/bin;C:/Program Files/Java/jre1.8.0_144/lib/i386;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_144\bin;C:\apache-maven-3.5.0\bin;C:\nodejs;C:\Users\Santhosh\AppData\Local\Programs\Microsoft VS Code\bin;D:\Softwares\STS\sts-3.9.3.RELEASE;;.]
+2018-12-29 21:15:31 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2018-12-29 21:15:31 - Initializing Spring embedded WebApplicationContext
+2018-12-29 21:15:31 - Root WebApplicationContext: initialization completed in 4808 ms
+2018-12-29 21:15:31 - Initializing ExecutorService 'applicationTaskExecutor'
+2018-12-29 21:15:32 - Adding welcome page template: index
+2018-12-29 21:15:32 - Starting ProtocolHandler ["http-nio-8080"]
+2018-12-29 21:15:32 - Using a shared selector for servlet write/read
+2018-12-29 21:15:32 - Tomcat started on port(s): 8080 (http) with context path ''
+2018-12-29 21:15:32 - Started CustomerStatementApplication in 7.566 seconds (JVM running for 9.248)
+2018-12-29 21:15:57 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2018-12-29 21:15:57 - Initializing Servlet 'dispatcherServlet'
+2018-12-29 21:15:57 - Completed initialization in 18 ms
+2018-12-29 21:15:57 - No mapping for GET /index
+2018-12-29 21:23:43 - Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.rabobank.app.CustomerStatementApplicationTests], using SpringBootContextLoader
+2018-12-29 21:23:43 - Could not detect default resource locations for test class [com.rabobank.app.CustomerStatementApplicationTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+2018-12-29 21:23:43 - Could not detect default configuration classes for test class [com.rabobank.app.CustomerStatementApplicationTests]: CustomerStatementApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2018-12-29 21:23:43 - Found @SpringBootConfiguration com.rabobank.app.CustomerStatementApplication for test class com.rabobank.app.CustomerStatementApplicationTests
+2018-12-29 21:23:43 - Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+2018-12-29 21:23:43 - Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@1976f5c, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@1fc268b, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@18dad04, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@1e495ff, org.springframework.test.context.support.DirtiesContextTestExecutionListener@1e1e210, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@1e35cd9, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@144252c, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@821a96, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@3d8174, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@1a9117e]
+2018-12-29 21:23:45 - Starting CustomerStatementApplicationTests on TimeMachine with PID 960 (started by Santhosh in D:\workarea\STS_Workspace\customer-statement)
+2018-12-29 21:23:45 - No active profile set, falling back to default profiles: default
+2018-12-29 21:23:50 - Initializing ExecutorService 'applicationTaskExecutor'
+2018-12-29 21:23:50 - Adding welcome page template: index
+2018-12-29 21:23:51 - Started CustomerStatementApplicationTests in 7.3 seconds (JVM running for 10.562)
+2018-12-29 21:23:52 - Shutting down ExecutorService 'applicationTaskExecutor'
+2018-12-29 21:24:14 - Starting CustomerStatementApplication on TimeMachine with PID 3788 (D:\workarea\STS_Workspace\customer-statement\target\classes started by Santhosh in D:\workarea\STS_Workspace\customer-statement)
+2018-12-29 21:24:14 - No active profile set, falling back to default profiles: default
+2018-12-29 21:24:18 - Tomcat initialized with port(s): 8080 (http)
+2018-12-29 21:24:18 - Initializing ProtocolHandler ["http-nio-8080"]
+2018-12-29 21:24:18 - Starting service [Tomcat]
+2018-12-29 21:24:18 - Starting Servlet Engine: Apache Tomcat/9.0.13
+2018-12-29 21:24:18 - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_144\jre\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jre1.8.0_144/bin/client;C:/Program Files/Java/jre1.8.0_144/bin;C:/Program Files/Java/jre1.8.0_144/lib/i386;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_144\bin;C:\apache-maven-3.5.0\bin;C:\nodejs;C:\Users\Santhosh\AppData\Local\Programs\Microsoft VS Code\bin;D:\Softwares\STS\sts-3.9.3.RELEASE;;.]
+2018-12-29 21:24:19 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2018-12-29 21:24:19 - Initializing Spring embedded WebApplicationContext
+2018-12-29 21:24:19 - Root WebApplicationContext: initialization completed in 4719 ms
+2018-12-29 21:24:20 - Initializing ExecutorService 'applicationTaskExecutor'
+2018-12-29 21:24:20 - Adding welcome page template: index
+2018-12-29 21:24:20 - Starting ProtocolHandler ["http-nio-8080"]
+2018-12-29 21:24:20 - Using a shared selector for servlet write/read
+2018-12-29 21:24:20 - Tomcat started on port(s): 8080 (http) with context path ''
+2018-12-29 21:24:20 - Started CustomerStatementApplication in 7.519 seconds (JVM running for 9.413)
+2018-12-29 21:24:32 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2018-12-29 21:24:32 - Initializing Servlet 'dispatcherServlet'
+2018-12-29 21:24:32 - Completed initialization in 21 ms
+2018-12-29 21:24:32 - No mapping for GET /index
+2018-12-29 21:24:36 - No mapping for GET /index
+2018-12-29 21:27:23 - Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.rabobank.CustomerStatementApplicationTests], using SpringBootContextLoader
+2018-12-29 21:27:23 - Could not detect default resource locations for test class [com.rabobank.CustomerStatementApplicationTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+2018-12-29 21:27:23 - Could not detect default configuration classes for test class [com.rabobank.CustomerStatementApplicationTests]: CustomerStatementApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2018-12-29 21:27:23 - Found @SpringBootConfiguration com.rabobank.CustomerStatementApplication for test class com.rabobank.CustomerStatementApplicationTests
+2018-12-29 21:27:24 - Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+2018-12-29 21:27:24 - Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@1976f5c, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@1fc268b, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@18dad04, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@1e495ff, org.springframework.test.context.support.DirtiesContextTestExecutionListener@1e1e210, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@1e35cd9, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@144252c, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@821a96, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@3d8174, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@1a9117e]
+2018-12-29 21:27:25 - Starting CustomerStatementApplicationTests on TimeMachine with PID 4572 (started by Santhosh in D:\workarea\STS_Workspace\customer-statement)
+2018-12-29 21:27:25 - No active profile set, falling back to default profiles: default
+2018-12-29 21:27:30 - Initializing ExecutorService 'applicationTaskExecutor'
+2018-12-29 21:27:31 - Adding welcome page template: index
+2018-12-29 21:27:31 - Started CustomerStatementApplicationTests in 7.124 seconds (JVM running for 10.436)
+2018-12-29 21:27:32 - Shutting down ExecutorService 'applicationTaskExecutor'
+2018-12-29 21:27:54 - Starting CustomerStatementApplication on TimeMachine with PID 5000 (D:\workarea\STS_Workspace\customer-statement\target\classes started by Santhosh in D:\workarea\STS_Workspace\customer-statement)
+2018-12-29 21:27:54 - No active profile set, falling back to default profiles: default
+2018-12-29 21:27:58 - Tomcat initialized with port(s): 8080 (http)
+2018-12-29 21:27:58 - Initializing ProtocolHandler ["http-nio-8080"]
+2018-12-29 21:27:58 - Starting service [Tomcat]
+2018-12-29 21:27:58 - Starting Servlet Engine: Apache Tomcat/9.0.13
+2018-12-29 21:27:58 - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_144\jre\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jre1.8.0_144/bin/client;C:/Program Files/Java/jre1.8.0_144/bin;C:/Program Files/Java/jre1.8.0_144/lib/i386;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_144\bin;C:\apache-maven-3.5.0\bin;C:\nodejs;C:\Users\Santhosh\AppData\Local\Programs\Microsoft VS Code\bin;D:\Softwares\STS\sts-3.9.3.RELEASE;;.]
+2018-12-29 21:27:59 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2018-12-29 21:27:59 - Initializing Spring embedded WebApplicationContext
+2018-12-29 21:27:59 - Root WebApplicationContext: initialization completed in 4669 ms
+2018-12-29 21:28:00 - Initializing ExecutorService 'applicationTaskExecutor'
+2018-12-29 21:28:00 - Adding welcome page template: index
+2018-12-29 21:28:00 - Starting ProtocolHandler ["http-nio-8080"]
+2018-12-29 21:28:00 - Using a shared selector for servlet write/read
+2018-12-29 21:28:00 - Tomcat started on port(s): 8080 (http) with context path ''
+2018-12-29 21:28:00 - Started CustomerStatementApplication in 7.612 seconds (JVM running for 9.629)
+2018-12-29 21:28:10 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2018-12-29 21:28:10 - Initializing Servlet 'dispatcherServlet'
+2018-12-29 21:28:10 - Completed initialization in 24 ms
+2018-12-29 21:28:29 - Total records size :10
+2018-12-29 21:28:29 - Total records: [CustomerStatement [transactionReference=194261, accountNumber=NL91RABO0315273637, startBalance=21.6, mutation=-41.83, description=Clothes from Jan Bakker, endBalance=-20.23], CustomerStatement [transactionReference=112806, accountNumber=NL27SNSB0917829871, startBalance=91.23, mutation=15.57, description=Clothes for Willem Dekker, endBalance=106.8], CustomerStatement [transactionReference=183049, accountNumber=NL69ABNA0433647324, startBalance=86.66, mutation=44.5, description=Clothes for Jan King, endBalance=131.16], CustomerStatement [transactionReference=183356, accountNumber=NL74ABNA0248990274, startBalance=92.98, mutation=-46.65, description=Subscription for Peter de Vries, endBalance=46.33], CustomerStatement [transactionReference=112806, accountNumber=NL69ABNA0433647324, startBalance=90.83, mutation=-10.91, description=Clothes for Richard de Vries, endBalance=79.92], CustomerStatement [transactionReference=112806, accountNumber=NL93ABNA0585619023, startBalance=102.12, mutation=45.87, description=Tickets from Richard Bakker, endBalance=147.99], CustomerStatement [transactionReference=139524, accountNumber=NL43AEGO0773393871, startBalance=99.44, mutation=41.23, description=Flowers from Jan Bakker, endBalance=140.67], CustomerStatement [transactionReference=179430, accountNumber=NL93ABNA0585619023, startBalance=23.96, mutation=-27.43, description=Clothes for Vincent Bakker, endBalance=-3.47], CustomerStatement [transactionReference=141223, accountNumber=NL93ABNA0585619023, startBalance=94.25, mutation=41.6, description=Clothes from Erik Bakker, endBalance=135.85], CustomerStatement [transactionReference=195446, accountNumber=NL74ABNA0248990274, startBalance=26.32, mutation=48.98, description=Flowers for Willem Dekker, endBalance=75.3]]
+2018-12-29 21:28:29 - failedTransactions list :3
+2018-12-29 21:28:30 - Validation failed records size :3
+2018-12-29 21:28:30 - Validation failed records :[CustomerStatement [transactionReference=112806, accountNumber=NL27SNSB0917829871, startBalance=91.23, mutation=15.57, description=Clothes for Willem Dekker, endBalance=106.8], CustomerStatement [transactionReference=112806, accountNumber=NL69ABNA0433647324, startBalance=90.83, mutation=-10.91, description=Clothes for Richard de Vries, endBalance=79.92], CustomerStatement [transactionReference=112806, accountNumber=NL93ABNA0585619023, startBalance=102.12, mutation=45.87, description=Tickets from Richard Bakker, endBalance=147.99]]
